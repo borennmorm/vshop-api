@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise-cancellation and long battery life.",
+    "price": 129.99,
+    "currency": "USD",
+    "brand": "SoundWave",
+    "rating": 4.5,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MQTR3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671097",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Graphic T-Shirt",
+    "description": "Comfortable cotton t-shirt with a cool graphic design.",
+    "price": 19.99,
+    "currency": "USD",
+    "brand": "Urban Wear",
+    "rating": 4.2,
+    "images": [
+      "https://www.limitee.com.au/cdn/shop/files/asta-liebe-black-bull-t-shirt-mens-xs-adult-tee-591_1200x.webp?v=1693235558",
+      "https://ae01.alicdn.com/kf/S3dab8869c0eb4f6590bceb2e62eb01e6s.jpg_640x640q90.jpg",
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with breathable material.",
+    "price": 89.99,
+    "currency": "USD",
+    "brand": "SportFlex",
+    "rating": 4.7,
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/96b99742-e3a3-4b82-9866-1fc3481b0d6c/wio-9-road-running-shoes-DBJMpM.png",
+      "https://www.outletcenter.gr/image/cache/catalog/products/12/03/39/01/120339010790-11-940x940.jpg",
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "description": "Feature-rich smart watch with health tracking capabilities.",
+    "price": 199.99,
+    "currency": "USD",
+    "brand": "TechGear",
+    "rating": 4.8,
+    "images": [
+      "https://img.freepik.com/premium-photo/white-modern-smart-watch-mockup-with-strap-white-background-3d-rendering_476612-18565.jpg",
+      "https://static.vecteezy.com/system/resources/previews/030/494/170/large_2x/smart-watch-with-black-strap-isolated-on-white-background-vector-illustration-ai-generated-free-photo.jpg",
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with high-quality sound.",
+    "price": 49.99,
+    "currency": "USD",
+    "brand": "SoundBlast",
+    "rating": 4.3,
+    "images": [
+      "https://img.freepik.com/premium-photo/bluetooth-speaker-smartphone-white-background_237099-95.jpg",
+      "https://www.shopyvision.com/wp-content/uploads/2022/03/JBL-Flip-6-Wireless-Portable-Bluetooth-Speaker-3.jpg",     
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Laptop Backpack",
+    "description": "Durable backpack with padded compartment for laptops.",
+    "price": 59.99,
+    "currency": "USD",
+    "brand": "TravelMate",
+    "rating": 4.4,
+    "images": [
+      "https://t4.ftcdn.net/jpg/02/76/36/19/360_F_276361999_HlHYimFly1ASBt4mrNbYuHpR7LBh0HY7.jpg",
+      "https://media.istockphoto.com/id/1346080697/photo/black-backpack-on-white-background.jpg?s=612x612&w=0&k=20&c=oV3w4vNjCnmsXYePcNiYnAqgQA8orKdHK5KpEEJ2-pA="
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Fitness Tracker",
+    "description": "Compact fitness tracker with heart rate monitor.",
+    "price": 79.99,
+    "currency": "USD",
+    "brand": "FitPlus",
+    "rating": 4.6,
+    "images": [
+      "https://c8.alamy.com/comp/2GFCMW0/activity-tracker-on-white-background-2GFCMW0.jpg",
+      "https://img.freepik.com/premium-photo/fitness-tracker-isolated-white-background_506134-32340.jpg",
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+    "price": 24.99,
+    "currency": "USD",
+    "brand": "ClickTech",
+    "rating": 4.1,
+    "images": [
+      "https://img.freepik.com/premium-photo/wireless-computer-mouse-isolated-white-background_362171-869.jpg",
+      "https://freerangestock.com/sample/36653/wireless-computer-mouse-isolated-on-white-background.jpg",
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Noise-Cancelling Earbuds",
+    "description": "Compact earbuds with active noise cancellation.",
+    "price": 59.99,
+    "currency": "USD",
+    "brand": "SoundWave",
+    "rating": 4.5,
+    "images": [
+      "https://www.electrocity.ie/wp-content/uploads/2024/06/nothing-ear-2-noise-cancelling-bluetooth-earbuds-white-00004.jpg",
+      "https://www.electrocity.ie/wp-content/uploads/2024/06/nothing-ear-2-noise-cancelling-bluetooth-earbuds-white-00003.jpg",
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Water Bottle",
+    "description": "Insulated water bottle to keep beverages cold or hot.",
+    "price": 14.99,
+    "currency": "USD",
+    "brand": "HydroMate",
+    "rating": 4.0,
+    "images": [
+      "https://shop.freetheocean.com/cdn/shop/files/fto-custom-water-bottle-white-white-background_1.jpg?v=1708012075",
+      "https://shop.freetheocean.com/cdn/shop/files/fto-custom-water-bottle-light-blue-white-background_0032b473-ec2b-4ae1-9cb7-e865c0b56555.jpg?v=1708012075",
+    ]
+  }
+]
